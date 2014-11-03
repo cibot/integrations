@@ -9,7 +9,9 @@
     "context": {
       "traits": {
         "address": {
-          "country": "USA"
+          "country": "USA",
+          "city": "San Francisco",
+          "region": "California"
         }
       }
     }
@@ -22,7 +24,9 @@
     "user_properties": {
       "id": "user-id",
       "address": {
-        "country": "USA"
+        "country": "USA",
+        "city": "San Francisco",
+        "region": "California"
       }
     },
     "event_properties": {
